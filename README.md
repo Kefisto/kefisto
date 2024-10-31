@@ -5,7 +5,7 @@
 I'm Kefisto , a passionate self-taught developer from Russia. 
 
 - 🔭 I’m currently working on my personal projects
-- 🌱 I’m currently learning Pythob, Node.js, C++
+- 🌱 I’m currently learning Python, Node.js, C++
 - 👯 I’m looking to collaborate on Open source projects
 - 💬 Ask me about anything
 - 😄 Pronouns: He)
